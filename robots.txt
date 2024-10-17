@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lumereqacone.pages.dev/sitemap.xml
